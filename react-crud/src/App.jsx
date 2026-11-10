@@ -56,7 +56,7 @@ function App() {
     setPrice("");
     setQuantity("");
   }
-
+//second commit
   // SELECT PRODUCT TO EDIT
   function editProduct(product) {
 
